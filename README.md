@@ -46,8 +46,8 @@
       <div class="text-center">
         <img src="https://avatars.githubusercontent.com/u/80442721?v=4" class="rounded-circle shadow mb-3" alt="Hads" width="150px" height="150px">
       </div>
-        <p class="card-text text-shadow">Halo teman selamat datang website ini saya buat karena gabut saja<br/>Umur saya baru 15 tahun dan masih menjadi seorang pelajar di SMPN 3 KARAWANG TIMUR<br/>Saya masih belajar tentang programming<br/>Belajar programming Otodidak, mulai dari YouTube dan web2 lainnya<br/>
-        Dengan nama asli saya <b>Fahad Vidjar Apriza</b><br/>Bahasa pemrograman yang saya ketahui hanya sedikit, yaitu (HTML/JavaScript), Python, C++<b/><br/>Saya juga punya projects bot whatsapp yang sekarang masih dalam pengembangan, mohon dukungan dan doa nya agar bot whatsapp saya bermanfaat bagi semuanya. Mau nyobain bot saya? Silahkan Join Group Official Kami<br/>Terimakasih Telah Berkunjung.</p>
+        <p class="card-text text-shadow">Halo teman selamat datang. Website ini saya buat karena gabut saja.<br/>Umur saya baru 15 tahun dan masih menjadi seorang pelajar di SMPN 3 KARAWANG TIMUR.<br/>Saya masih belajar tentang programming.<br/>Belajar programming Otodidak, mulai dari YouTube dan web2 lainnya.<br/>
+        Dengan nama asli saya <b>Fahad Vidjar Apriza</b><br/>Bahasa pemrograman yang saya ketahui hanya sedikit, yaitu (HTML/JavaScript), Python, C++.<b/><br/>Saya juga punya projects bot whatsapp yang sekarang masih dalam pengembangan, mohon dukungan dan doa nya agar bot whatsapp saya bermanfaat bagi semuanya. Mau nyobain botnya? Silahkan Join Group Official Kami<br/>Terimakasih Telah Berkunjung.</p>
       </div>
     </div>
   </div>
