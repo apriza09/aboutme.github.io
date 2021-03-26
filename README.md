@@ -26,9 +26,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="https://api.whatsapp.com/send?phone=6285716360512&text=Halo hads">Whatsapp</a>
-          </li>
+          <li class="nav-item"
+
+        </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="https://instagram.com/apriza_09">Instagram</a>
           </li>
