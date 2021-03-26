@@ -9,7 +9,7 @@
 
   <meta charset="UTF-8">
 
-  <title>Contoh Audio di HTML</title>
+  <title>Dengerin Musik Dulu Bro Dari Pada Gabut:v</title>
 
 </head>
 
