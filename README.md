@@ -20,7 +20,7 @@
   <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient shadow mb-3">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="/">Contacts</a>
+      <a class="navbar-brand fw-bold" href="/">Contacts & Group Official</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -31,6 +31,11 @@
           </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="https://instagram.com/daffi_d_2607">Instagram partner</a>
+          </li>
+          <li class="nav-item">
+
+          <a class="nav-link active" aria-current="page" href="https://chat.whatsapp.com/JC8RUcuy5q2B1plmsz1uAq">Official Group</a>
+
           </li>
         </ul>
       </div>
